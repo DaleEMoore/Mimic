@@ -1,0 +1,21 @@
+
+Overview
+Forked https://github.com/ISS-Mimic/Mimic
+to https://github.com/DaleEMoore/Mimic
+
+
+
+TODO
+Evaluate database usage in kivy program. Looking for full CRDS example.
+    No requirements.txt
+    No main.py
+    13 Screens/*.kv files. - I think that's a GOOD thing.
+    teststuff/serialTest.py run gets "SyntaxError: Missing parentheses in call to 'print'", python2!
+    Now "serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyAMA0: [Errno 2] No such file or directory: '/dev/ttyAMA0'"
+    This probably will be lots of hassle needing special hardware.
+
+
+
+Logs
+Mon 30 Oct 2017 5:56 PM CST
+Created
